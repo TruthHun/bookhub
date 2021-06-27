@@ -5,7 +5,7 @@
 ## 《Golang 全栈开发实战》仓库
 
 - Gitee: https://gitee.com/truthhun/golang-fullstack-in-action
-- GitHub: https://github.com/TrutHun/golang-fullstack-in-action
+- GitHub: https://github.com/TruthHun/golang-fullstack-in-action
 
 ## WIP
 
